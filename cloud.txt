@@ -1,5 +1,0 @@
-helloworld
-springcloud
-ribbon
-openfeign
-Hystrix
